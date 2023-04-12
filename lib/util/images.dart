@@ -1,11 +1,13 @@
 class Images {
   static const String logo = 'assets/image/logo.png';
   static const String placeholder = 'assets/image/placeholder.jpg';
-  static const String notification_placeholder = 'assets/image/notification_placeholder.jpg';
+  static const String notification_placeholder =
+      'assets/image/notification_placeholder.jpg';
   static const String arabic = 'assets/image/arabic.png';
   static const String call = 'assets/image/call.png';
   static const String checked = 'assets/image/checked.png';
   static const String english = 'assets/image/english.png';
+  static const String tagalog = 'assets/image/tagalog.png';
   static const String location_marker = 'assets/image/location_marker.png';
   static const String lock = 'assets/image/lock.png';
   static const String mail = 'assets/image/mail.png';
@@ -14,7 +16,8 @@ class Images {
   static const String onboard_2 = 'assets/image/onboard_2.png';
   static const String onboard_3 = 'assets/image/onboard_3.png';
   static const String restaurant_marker = 'assets/image/restaurant_marker.png';
-  static const String delivery_man_marker = 'assets/image/delivery_man_marker.png';
+  static const String delivery_man_marker =
+      'assets/image/delivery_man_marker.png';
   static const String user = 'assets/image/user.png';
   static const String about_us = 'assets/image/about_us.png';
   static const String coupon = 'assets/image/coupon.png';
@@ -41,7 +44,8 @@ class Images {
   static const String pick_marker = 'assets/image/pick_marker.png';
   static const String house = 'assets/image/house.png';
   static const String tracking = 'assets/image/tracking.png';
-  static const String my_location_marker = 'assets/image/my_location_marker.png';
+  static const String my_location_marker =
+      'assets/image/my_location_marker.png';
   static const String user_marker = 'assets/image/user_marker.png';
   static const String maintenance = 'assets/image/maintenance.png';
   static const String no_internet = 'assets/image/no_internet.png';
@@ -57,14 +61,18 @@ class Images {
   static const String profile = 'assets/image/profile.png';
   static const String landing_app_store = 'assets/image/landing_app_store.png';
   static const String landing_checkout = 'assets/image/landing_checkout.png';
-  static const String landing_choose_location = 'assets/image/landing_choose_location.png';
+  static const String landing_choose_location =
+      'assets/image/landing_choose_location.png';
   static const String landing_excellent = 'assets/image/landing_excellent.png';
-  static const String landing_google_play = 'assets/image/landing_google_play.png';
+  static const String landing_google_play =
+      'assets/image/landing_google_play.png';
   static const String landing_bg = 'assets/image/landing_bg.png';
-  static const String landing_store_open = 'assets/image/landing_store_open.png';
+  static const String landing_store_open =
+      'assets/image/landing_store_open.png';
   static const String landing_stores = 'assets/image/landing_stores.png';
   static const String landing_trusted = 'assets/image/landing_trusted.png';
-  static const String landing_delivery_man = 'assets/image/landing_delivery_man.png';
+  static const String landing_delivery_man =
+      'assets/image/landing_delivery_man.png';
   static const String twitter = 'assets/image/twitter.png';
   static const String youtube = 'assets/image/youtube.png';
   static const String linkedin = 'assets/image/linkedin.png';
@@ -90,4 +98,11 @@ class Images {
   static const String shipping_policy = 'assets/image/shipping_policy.png';
   static const String cancelation = 'assets/image/cancelation.png';
   static const String refund = 'assets/image/refund.png';
+
+  static const String amex = 'assets/image/american-express.png';
+  static const String discover = 'assets/image/discover.png';
+  static const String gcash = 'assets/image/gcash.png';
+  static const String mastercard = 'assets/image/mastercard.png';
+  static const String paypal = 'assets/image/paypal.png';
+  static const String visa = 'assets/image/visa.png';
 }
